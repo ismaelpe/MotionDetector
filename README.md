@@ -15,9 +15,9 @@ You must install OpenCV in your computer, visit OpenCV to compile with C/C++.
 
 Go to the project's path, open a terminal and type the following commands:
 
-´´´
+``` shell
 mkdir build
 cd build
 cmake ..
 make
-´´´
+```
